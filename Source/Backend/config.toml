@@ -1,0 +1,7 @@
+bind = '0.0.0.0:8081'
+use_reloader = true
+
+[workers]
+
+[workers.ocr]
+inbox_path = '../data/inbox'
